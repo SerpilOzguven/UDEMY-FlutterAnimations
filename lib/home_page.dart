@@ -1,6 +1,8 @@
+// TODO Implement this library.// TODO Implement this library.// TODO Implement this library.// TODO Implement this library.
 
-
+import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart';
 
 const String text =
     "Yinelenen bir sayfa içeriðinin okuyucunun dikkatini daðýttýðý bilinen bir gerçektir. Lorem Ipsum kullanmanýn amacý, sürekli 'buraya metin gelecek, buraya metin gelecek' yazmaya kýyasla daha dengeli bir harf daðýlýmý saðlayarak okunurluðu artýrmasýdýr. Þu anda birçok masaüstü yayýncýlýk paketi ve web sayfa düzenleyicisi, varsayýlan mýgýr metinler olarak Lorem Ipsum kullanmaktadýr.";
